@@ -9,3 +9,7 @@ Task 2 - Temperature Converter:
 
 Task 3 - Homepage of Netflix:
          A simple website having similar homepage that of Netflix using HTML and CSS.
+
+
+I do only task 2 and task 3.
+The portfolio website task is in my Simplbyte respiratory. You can check it from there.
