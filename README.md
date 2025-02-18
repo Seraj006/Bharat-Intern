@@ -1,4 +1,4 @@
-# Bharat-Intern
+# Bharat-Intern Project 
 This repository is for Bharat intern task.
 
 Task 1 : Portfolio Website :
@@ -12,4 +12,4 @@ Task 3 - Homepage of Netflix:
 
 
 I do only task 2 and task 3.
-The portfolio website task is in my Simplbyte respiratory. You can check it from there.
+The portfolio website task is in my Simplbyte respiratory. You can check it from there
