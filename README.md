@@ -8,4 +8,4 @@ Task 2 - Temperature Converter:
          Create a simple website using CSS, HTML, JAVASCRIPT to convert temperature from celsius to Fahrengeit.
 Task 3 - Netflix Homepage 
          A simple website having similar homepage that of Netflix using HTML & CSS
-The portfolio website task is in my Simplbyte respiratory. ggf
+The portfolio website task is in my Simplbyte respiratory. f
